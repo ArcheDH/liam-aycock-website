@@ -40,14 +40,14 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+    light: "#2e3440",       // nord0: polar night (background)
+    lightgray: "#3b4252",   // nord1: polar night (borders/search)
+    gray: "#434c5e",        // nord2: polar night (graph links)
+    darkgray: "#d8dee9",    // nord4: snow storm (body text)
+    dark: "#eceff4",        // nord6: snow storm (headings)
+    secondary: "#81a1c1",   // nord9: frost (links/titles)
+    tertiary: "#88c0d0",    // nord8: frost (hover states)
+    highlight: "rgba(136, 192, 208, 0.15)", // nord8: frost (translucent)
           textHighlight: "#b3aa0288",
         },
       },
