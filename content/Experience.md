@@ -1,6 +1,6 @@
 # Coca-Cola Space Science Center
 <p style="color: gray;">Fall 2022 - Present</p>
-As a Student Assistant at the [[Coca-Cola Space Science Center]] 
+During my employment as a Student Assistant at the [Coca-Cola Space Science Center](https://www.ccssc.org/) I gained experience in public speaking, 
 # Space Grant 
 <p style="color: gray;">Fall 2023 - Fall 2025</p>  
 
