@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        body: "IBM Plex Sans",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -40,14 +40,14 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-    light: "#2e3440",       // nord0: polar night (background)
-    lightgray: "#3b4252",   // nord1: polar night (borders/search)
-    gray: "#434c5e",        // nord2: polar night (graph links)
-    darkgray: "#d8dee9",    // nord4: snow storm (body text)
-    dark: "#eceff4",        // nord6: snow storm (headings)
-    secondary: "#81a1c1",   // nord9: frost (links/titles)
-    tertiary: "#88c0d0",    // nord8: frost (hover states)
-    highlight: "rgba(136, 192, 208, 0.15)", // nord8: frost (translucent)
+          light: "#2e3440",       // nord0: polar night (background)
+          lightgray: "#3b4252",   // nord1: polar night (borders/search)
+          gray: "#434c5e",        // nord2: polar night (graph links)
+          darkgray: "#d8dee9",    // nord4: snow storm (body text)
+          dark: "#eceff4",        // nord6: snow storm (headings)
+          secondary: "#81a1c1",   // nord9: frost (links/titles)
+          tertiary: "#88c0d0",    // nord8: frost (hover states)
+          highlight: "rgba(136, 192, 208, 0.15)", // nord8: frost (translucent)
           textHighlight: "#b3aa0288",
         },
       },
