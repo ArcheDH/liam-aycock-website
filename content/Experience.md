@@ -1,8 +1,7 @@
 # Coca-Cola Space Science Center
-<p style="color: gray;">Fall 2022 - Present</p>  
-
+<p style="color: gray;">Fall 2022 - Present</p>
+As a Student Assistant at the [[Coca-Cola Space Science Center]] 
 # Space Grant 
-
 <p style="color: gray;">Fall 2023 - Fall 2025</p>  
 
 # R.I.A. Grant
