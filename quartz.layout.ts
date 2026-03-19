@@ -11,7 +11,6 @@ export const sharedPageComponents: SharedLayout = {
     },
   }),
 }
-
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
@@ -32,14 +31,14 @@ export const defaultContentPageLayout: PageLayout = {
           Component: Component.Search,
           grow: true,
         },
-        { Component: Component.Darkmode },
-        { Component: Component.ReaderMode },
+        { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() },
       ],
     }),
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    //Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
