@@ -31,11 +31,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Flex({
       components: [
         {
-          //Component: Component.Search(),
-          //grow: true,
+          Component: Component.Search,
+          grow: true,
         },
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
+        { Component: Component.Darkmode },
+        { Component: Component.ReaderMode },
       ],
     }),
     Component.Explorer(),
@@ -56,10 +56,10 @@ export const defaultListPageLayout: PageLayout = {
     Component.Flex({
       components: [
         {
-          Component: Component.Search(),
+          Component: Component.Search,
           grow: true,
         },
-        { Component: Component.Darkmode() },
+        { Component: Component.Darkmode },
       ],
     }),
     Component.Explorer(),
