@@ -9,23 +9,23 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Liam Aycock",
-    pageTitleSuffix: "",
+    pageTitleSuffix: "A baller.",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "liamaycock.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "IBM Plex Sans",
-        code: "IBM Plex Mono",
+        header: "IBM Plex Serif",
+        body:   "IBM Plex Sans",
+        code:   "IBM Plex Mono",
       },
       colors: {
         lightMode: {
