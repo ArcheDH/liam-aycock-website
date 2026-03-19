@@ -1,6 +1,6 @@
 # [[Coca-Cola Space Science Center]]
 <p style="color: gray;">Fall 2022 - Present</p>
-During my employment as a Student Assistant at the [Coca-Cola Space Science Center](https://www.ccssc.org/) I gained experience in public speaking and outreach.  
+During my employment as a Student Assistant at the [CCSSC](https://www.ccssc.org/) I gained experience in public speaking and outreach.  
 
 
 # [[NASA's Space Grant]] 
