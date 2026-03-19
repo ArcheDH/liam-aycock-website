@@ -30,14 +30,14 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#eceff4",       // Snow Storm (Background)
+          lightgray: "#e5e9f0",   // Snow Storm (Borders/Search bar)
+          gray: "#4c566a",        // Polar Night (Subtitles/Dates)
+          darkgray: "#2e3440",    // Polar Night (Main Body Text)
+          dark: "#3b4252",        // Polar Night (Headers)
+          secondary: "#5e81ac",   // Frost (Links/Folder Icons)
+          tertiary: "#88c0d0",    // Frost (Hover states)
+          highlight: "rgba(136, 192, 208, 0.15)", // Frost (Text Highlight)
           textHighlight: "#fff23688",
         },
         darkMode: {
