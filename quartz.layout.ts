@@ -28,7 +28,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Flex({
       components: [
         {
-          Component: Component.Search,
+          Component: Component.Search() ,
           grow: true,
         },
         { Component: Component.Darkmode() },
@@ -53,10 +53,10 @@ export const defaultListPageLayout: PageLayout = {
     Component.Flex({
       components: [
         {
-          Component: Component.Search,
+          Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode },
+        { Component: Component.Darkmode() },
       ],
     }),
     Component.Explorer(),
