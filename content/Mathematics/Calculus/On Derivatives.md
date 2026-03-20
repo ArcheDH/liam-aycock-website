@@ -96,4 +96,7 @@ I think we have enough here to fully develop the idea of the derivative. Here it
 
 Let that sink in. Re-read it. Take a deep breath. What the *hell* does that mean?
 
-Remember the tangent line on that exponential equation that described the slope of that specific point. Imagine us doing that for the *infinitely many* points along that equation such that we can plot those and have a *new* equation that describes the rate of change of the exponential function!
+Remember the tangent line on that exponential equation that described the slope of that specific point. Imagine us doing that for the *infinitely many* points along that equation, taking the value of the slope of that tangent line, such that we can plot those and have a *new* equation that describes the rate of change of the exponential function!
+
+# Finishing Up
+Calculus, and mathematics in general, is an incredibly deep subject. It goes infinitely deep and infinitely wide. There is **a lot** that I did not discuss here. I hope to write a more technical write up of derivatives but my purpose of writing this was to provide a non-technical introduction showing that mathematics is incredibly conceptual and is not just a bunch of symbols.
