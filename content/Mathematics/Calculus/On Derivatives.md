@@ -31,7 +31,9 @@ The cool thing about math is that almost all of it can be described visually. If
 
 In the language of numbers, we describe this as: 
 
-$$y=mx+b$$where $y$ is the output, $x$ in the input, $m$ is the *slope* (more on that in a moment), and $b$ is the y-intercept (where the red line touches the y-axis.)
+$$y=mx+b$$
+
+where $y$ is the output, $x$ in the input, $m$ is the *slope* (more on that in a moment), and $b$ is the y-intercept (where the red line touches the y-axis.)
 
 Using that equation, the graph above looks like
 
