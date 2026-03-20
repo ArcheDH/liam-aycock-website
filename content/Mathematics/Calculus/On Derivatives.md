@@ -51,12 +51,26 @@ Lets go back to our *speed* rate. We know *speed* is a change in position over t
 
 If you aren't already aware, we use the Greek capital letter $\Delta$ (delta) to symbolically say "change in". So using $\Delta$ we say
 
->$$\frac{\Delta y}{\Delta x}$$
+>$$\frac{\text{Change in Position}}{\text{Change in Time}} =\frac{\Delta y}{\Delta x}$$
 
 Wait a second. . . that's the definition of *slope*! Our value for m in the linear equation is 1, which means:
 
->$$\frac{\Delta y}{\Delta x} = 1$$
+>$$\frac{\text{Change in Position}}{\text{Change in Time}} =\frac{\Delta y}{\Delta x} = 1$$
 
 The change in $y$ *per* change in $x$, or stated properly: **The change in $y$ with respect to $x$ is $1$**.
 # Principles of the Derivative
-As stated in the overview, Derivatives seem scary. I promise you they are not. As you read you'll see why. :)
+With the background work out of the way it's time to move on to the meat. As stated in the overview, Derivatives seem scary. I promise you they are not. As you read you'll see why. :)
+
+## The Idea
+As seen in the previous section the rate of change of a linear graph is the slope. The thing about slope however is that it is constant - for a linear graph the slope does not change. Theoretically, this isn't a problem. It is a problem *in reality*. Systems aren't perfect, we aren't driving perfectly at 60 miles per hour, or have a perfect fuel efficiency of 25 miles per gallon. There is variation. For example, here is the fuel efficiency of a 2009 Toyota Corolla at different speeds. ![[fuel_efficiency.jpg]]
+
+It may look relatively linear but there is a curve. So what is the slope? Can we even calculate the slope? The answer is yes - sort of. You see, there isn't just *one* slope there's a lot. This means that our slope **changes**.
+
+## The Derivative
+Let's move to a simpler graph, an exponential. ![[exponential_graph.png]]
+
+This graph is described with:
+
+>$$y=x^2$$
+
+It's obvious here that our slope, or the rate is changing. We can't perfectly describe the whole equation with a straight line. We can however *approximate* a specific part. Let's overlay our exponential graph with our linear graph where $m=1$.
