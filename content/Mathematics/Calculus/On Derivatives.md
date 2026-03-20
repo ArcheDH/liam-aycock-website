@@ -15,9 +15,16 @@ So, it literally means to take the difference of something. We will get to this 
 # Ground Work
 Before we jump straight into the ocean, we want to make sure we have all our equipment.
 ## Rates
-A [[Rates|rate]] is something that changes with another. For example, when we drive on the road the speed-limit sign prompts us to drive at a specific *rate* like 60 miles *per* hour. We are driving 60 miles every hour at that *rate*. In math, we say that we are driving 60 miles *with respect* to one hour. So you can think of "with respect" to be the same thing as the "per" in miles per hour.
-Rates do not need to be exclusive to time. Another driving metaphor to explain this is fuel efficiency. We describe how far our car can drive before going to the gas station in miles *per* gallon. Using math lingo, that's miles *with respect* to one gallon.
+A [[Rates|rate]] is something that changes with another. This is best explained with an example. When we drive on the road the speed-limit sign prompts us to drive at a specific *rate* like 60 miles *per* hour. We are driving 60 miles every hour. This means the number of miles changes with the number of hours. In math, we say that we are driving 60 miles *with respect* to one hour. So you can think of "with respect" to be the same thing as the "per" in miles per hour.
+
+Rates do not need to be exclusive to time, however. Another driving metaphor to explain this is fuel efficiency. We describe how far our car can drive before going to the gas station in miles *per* gallon. Using math lingo, that's miles *with respect* to one gallon.
+You may notice that in both scenarios we have miles *with respect* to something. Both of these are special kinds of *rates* that have specific names.
+
+Miles *per* hour is a rate that describes a change in position over time. This is called *speed*. A speed is just a rate.
+Miles *per* gallon described efficiency. Gas isn't cheap, so we want to make sure we get the most distance for the least amount of money. We are trying to get the biggest output with the smallest input.
+
 ## Visualizing
+The cool thing about 
 
 # Principles of the Derivative
 As stated in the overview, Derivatives seem scary. I promise you they are not. As you read you'll see why. :)
