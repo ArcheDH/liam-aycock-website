@@ -30,11 +30,14 @@ You may notice that in both scenarios we have miles *with respect* to something.
 The cool thing about math is that almost all of it can be described visually. If you took math in sixth grade you may be familiar with something called a *linear graph*. A linear graph is just a graph with a straight line. Something like this:![[linear_graph.png]]
 
 In the language of numbers, we describe this as: 
+
 $$y=mx+b$$where $y$ is the output, $x$ in the input, $m$ is the *slope* (more on that in a moment), and $b$ is the y-intercept (where the red line touches the y-axis.)
 
 Using that equation, the graph above looks like
+
 $$y=1x+0=x$$
 therefore:
+
 $$y=x$$
 
 
