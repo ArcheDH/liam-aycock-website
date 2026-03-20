@@ -84,3 +84,16 @@ As you are rolling up that hill, the pitch of your car (imagine the line) shows 
 
 Every place you measure the pitch of your car on that hill describes the slope at that point. It is describing what we call the *instantaneous rate of change* at that point.
 ## The Culmination
+Up to this point we have been heating the metal and are just about to strike with the hammer. Let's quickly reiterate (I apologize if this is repetitive but if you are like me repetition is the bread and butter of retention).
+
+1. A derivative of something is an original thing that has a series of steps acted upon it to produce a new thing
+2. Rates are changes of one thing with respect to another thing
+3. When we have varying changes in rates we can describe the *instantaneous rate of change* using a tangent line.
+
+I think we have enough here to fully develop the idea of the derivative. Here it is:
+
+> A derivative is a new equation *derived* from an original equation where the y-values of the new equation plot the *instantaneous rate of change* (slope) for every value of the original equation.
+
+Let that sink in. Re-read it. Take a deep breath. What the *hell* does that mean?
+
+Remember the tangent line on that exponential equation that described the slope of that specific point. Imagine us doing that for the *infinitely many* points along that equation such that we can plot those and have a *new* equation that describes the rate of change of the exponential function!
