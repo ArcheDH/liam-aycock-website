@@ -13,7 +13,7 @@ This term actually has its origins in math vocabulary. The technical definition 
 So, it literally means to take the difference of something. We will get to this later.
 
 # Ground Work
-Before we jump straight into the ocean, we want to make sure we have all our equipment.
+Before we jump straight into the ocean, we want to make sure we have all our equipment. Much of this is elementary algebra but making sure we have all our bases covered is crucial for complete understanding.
 ## Rates
 Rates are the **MOST FUNDAMENTAL** thing to understand with derivatives because, spoiler alert, derivatives are ***just rates***.
 
@@ -43,6 +43,20 @@ therefore:
 
 > $$y=x$$
 
+Lets stop here for a moment and think a little deeper about what has just been described. The y-value is equal to the x-value. We can use this kind of graph to visually describe rates.
 
+Lets go back to our *speed* rate. We know *speed* is a change in position over time. Let's say the x-axis is our time-value (in hours), and the y-axis is our position (in miles). If we look at the graph we can see that for every change of a value of 1, there is a change in value of 1 for the y-axis. This means that we are moving at one mile *per* hour, or one mile *with respect* to one hour. If we wanted to describe it mathematically we would do it like so:
+
+>$$\frac{\text{Change in Position}}{\text{Change in Time}}$$
+
+If you aren't already aware, we use the Greek capital letter $\Delta$ (delta) to symbolically say "change in". So using $\Delta$ we say
+
+>$$\frac{\Delta y}{\Delta x}$$
+
+Wait a second. . . that's the definition of *slope*! Our value for m in the linear equation is 1, which means:
+
+>$$\frac{\Delta y}{\Delta x} = 1$$
+
+The change in $y$ *per* change in $x$, or stated properly: **The change in $y$ with respect to $x$ is $1$**.
 # Principles of the Derivative
 As stated in the overview, Derivatives seem scary. I promise you they are not. As you read you'll see why. :)
