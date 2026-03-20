@@ -73,4 +73,7 @@ This graph is described with:
 
 >$$y=x^2$$
 
-It's obvious here that our slope, or the rate is changing. We can't perfectly describe the whole equation with a straight line. We can however *approximate* a specific part. Let's overlay our exponential graph with our linear graph where $m=1$.
+It's obvious here that our slope, or the rate is changing. We can't perfectly describe the whole equation with a straight line. We can however *approximate* a specific part. Let's overlay our exponential graph with our linear graph where $m=1$.![[exponential&linear_graph.png]]
+
+Notice it intersects the graph at $(0,0)$ and $(1,1)$. It is (poorly) approximating the slope between those two points. Now I want you to imagine moving that linear line so that the two points get closer together. So close that they are in fact on top of each other.![[tangent line.png]]
+
