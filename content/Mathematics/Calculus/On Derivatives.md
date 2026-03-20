@@ -27,7 +27,7 @@ You may notice that in both scenarios we have miles *with respect* to something.
 - Miles *per* gallon describes efficiency. Gas isn't cheap, so we want to make sure we get the most distance for the least amount of money. We are trying to get the biggest output with the smallest input.
 
 ## Visualizing
-The cool thing about math is that almost all of it can be described visually. If you took math in sixth grade you may be familiar with something called a *linear graph*. A linear graph is just a graph with a straight line. Something like this:![[linear_graph.png]]
+The cool thing about math is that almost all of it can be described visually. If you took math in sixth grade you may be familiar with something called a *linear graph*. A linear graph is just a graph with a straight line. Something like this:![[linear_graph.png|500]]
 
 In the language of numbers, we describe this as: 
 
@@ -38,6 +38,7 @@ where $y$ is the output, $x$ in the input, $m$ is the *slope* (more on that in a
 Using that equation, the graph above looks like
 
 > $$y=1x+0=x$$
+
 therefore:
 
 > $$y=x$$
