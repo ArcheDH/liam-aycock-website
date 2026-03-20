@@ -1,3 +1,4 @@
+Disclaimer: My attempt here is to provide a conceptual understanding of derivatives. It is not comprehensive and is instead meant to provide a "foot in the door" amount of knowledge of the concepts.
 # Introduction
 Derivatives have, at first glance, a scary name. They look like this terrifying beast but in reality are one of the most simple ideas in mathematics that you probably use on a daily basis. Before we get into it, lets do what [Socrates](https://sacred-texts.com/cla/dep/dep018.htm) would do and first *define the terms*. 
 # Terms
@@ -64,9 +65,9 @@ With the background work out of the way it's time to move on to the meat. As sta
 ## The Idea
 As seen in the previous section the rate of change of a linear graph is the slope. The thing about slope however is that it is constant - for a linear graph the slope does not change. Theoretically, this isn't a problem. It is a problem *in reality*. Systems aren't perfect, we aren't driving perfectly at 60 miles per hour, or have a perfect fuel efficiency of 25 miles per gallon. There is variation. For example, here is the fuel efficiency of a 2009 Toyota Corolla at different speeds. ![[fuel_efficiency.jpg]]
 
-It may look relatively linear but there is a curve. So what is the slope? Can we even calculate the slope? The answer is yes - sort of. You see, there isn't just *one* slope there's a lot. This means that our slope **changes**.
+It may look relatively linear but there is a curve. So what is the slope? Can we even calculate the slope? The answer is yes - sort of. You see, there isn't just *one* slope there's a lot and the value of the slope depends on where you are. This shows that the slope (rate) is dependent upon where you are measuring it.
 
-## The Derivative
+## Baby-Steps
 Let's move to a simpler graph, an exponential. ![[exponential_graph.png]]
 
 This graph is described with:
@@ -75,5 +76,11 @@ This graph is described with:
 
 It's obvious here that our slope, or the rate is changing. We can't perfectly describe the whole equation with a straight line. We can however *approximate* a specific part. Let's overlay our exponential graph with our linear graph where $m=1$.![[exponential&linear_graph.png]]
 
-Notice it intersects the graph at $(0,0)$ and $(1,1)$. It is (poorly) approximating the slope between those two points. Now I want you to imagine moving that linear line so that the two points get closer together. So close that they are in fact on top of each other.![[tangent line.png]]
+Notice it intersects the graph at $(0,0)$ and $(1,1)$. It is (poorly) approximating the slope between those two points. Now I want you to imagine moving that linear line so that the two points of intersection get closer together - so close that they are in fact on top of each other.![[tangent line.png]]
 
+This is called a *Tangent Line*. It intersects the graph only at one point. If you notice, this is the slope at that point in the same way that the pitch of your car describes where you are on the hill. 
+### More Car Analogies
+As you are rolling up that hill, the pitch of your car (imagine the line) shows an incline, describing a positive slope meaning you are increasing in elevation over time. When you reach the top, for a brief moment you are no longer increasing or decreasing in elevation which means the rate at that point is 0. When you begin to roll down hill the pitch of your car describes a negative slope where you are decreasing in elevation over time.
+
+Every place you measure the pitch of your car on that hill describes the slope at that point. It is describing what we call the *instantaneous rate of change* at that point.
+## The Culmination
